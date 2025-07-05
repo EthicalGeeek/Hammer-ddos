@@ -1,3 +1,4 @@
+![Image Alt](https://github.com/EthicalGeeek/Hammer-ddos/blob/73121cec25a2864d508172f404e9ac4f530d44c4/sake-black-death-smile-wallpaper-preview.jpg)
 # Hammer DDoS Script v1
 
 > ⚠️ **DISCLAIMER:** This project is intended for **educational, ethical, and authorized testing purposes only**.  
@@ -16,7 +17,6 @@
 • **No malware**, **no backdoors** — it's open-source for transparency and verification  
 • **Frequently updated**  
 • **Free** for the community
-![Image Alt](https://github.com/EthicalGeeek/Hammer-ddos/blob/73121cec25a2864d508172f404e9ac4f530d44c4/sake-black-death-smile-wallpaper-preview.jpg)
 
 ---
 
