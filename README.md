@@ -3,11 +3,11 @@
 > ⚠️ **DISCLAIMER:** This project is intended for **educational, ethical, and authorized testing purposes only**.  
 > Do **NOT** use this tool to target websites, servers, or networks without **explicit permission**.  
 > Misuse may result in **criminal charges**, **bans**, or **legal action**.  
-> The developer, [EthicalGeek](https://github.com/EthicalGeek), is **not responsible** for any misuse or damage caused.
+> The developer, [EthicalGeek](https://github.com/EthicalGeeek), is **not responsible** for any misuse or damage caused.
 
 ---
 
-• **Hammer** DDoS Script v1 (Python 3), by [EthicalGeek](https://github.com/EthicalGeek)  
+• **Hammer** DDoS Script v1 (Python 3), by [EthicalGeek](https://github.com/EthicalGeeek)  
 • Designed **only for legal/stress‑testing** of servers **you own or have permission to test**  
 • Available on **Windows** and **Linux**  
 • Uses HTTP flood with customizable **threads ("turbo")**, target **host**, and **port**  
@@ -22,7 +22,7 @@
 ### ⚙️ Example Usage
 
 ```bash
-git clone https://github.com/EthicalGeek/hammer.git
+git clone https://github.com/EthicalGeeek/hammer.git
 cd hammer
 python3 hammer.py -s TARGET_IP -p 80 -t 135
 
